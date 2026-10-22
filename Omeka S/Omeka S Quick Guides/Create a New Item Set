@@ -1,0 +1,68 @@
+# Create a New Item Set | Omeka S
+#### [Made by Sara Whitver with Scribe](https://scribehow.com/o/Q5Aaj_WQQLSLiZKvgOpJpw/viewer/Create_a_New_Item_Set__Omeka_S__1ItGb-sOQ8CaJYXJSUttew)
+Item sets are aggregations of items, similar to collections. In Omeka S, items may belong to any number of sets, and an item set can have any number of items.
+
+Tip: 🔗 Check out the Omeka S User Manual:[Item sets](https://omeka.org/s/docs/user-manual/content/item-sets/)
+
+
+1\. Start the process from the administrative dashboard of your Omeka S project. Select "item sets" from the left side menu or from the Manage Resources quick links on the dashboard.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/9e160965-1e5b-4249-9e46-7395def14186/user_cropped_screenshot_97157e0e80eb43c88a030c1cc1182065_text_export.jpeg)
+
+
+2\. On the landing page for Item Sets, find the "add new item set" button on the top right section of the page.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/7da6dda1-501e-4dbb-a0e8-14f05b7f56c0/user_cropped_screenshot_eba5ef40b2d041818299fa8cdcde6645_text_export.jpeg)
+
+
+3\. Choose a resource template to apply to the item set. This will automatically provide your preselected fields to use to describe your set.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/4ff1cbcf-617f-4da8-9802-a1ae7026f0cc/user_cropped_screenshot_df2254d4b6144366bddd48ffc3bfb0fd_text_export.jpeg)
+
+
+Tip: There are three categories of information that you can provide to create this Item Set record: Values, Advanced, and Item Sets Tree.
+
+
+4\. The [Values](https://omeka.org/s/docs/user-manual/content/items/#values) category includes the descriptive "metadata" fields for the individual item.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/8a949ce5-12df-4efd-99a7-3cf19fc2366e/user_cropped_screenshot_4f30cb1fa7814d23b03766ac17ef3b7a_text_export.jpeg)
+
+
+5\. The [advanced tab](https://omeka.org/s/docs/user-manual/content/items/#advanced) has two options. One lets you set a custom thumbnail for the item. The other allows you to change which user has ownership of the item.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/02b89ad5-b5ca-430b-8087-2d7648e3896e/user_cropped_screenshot_e7e057bd8e2f40348549957a883b4e4e_text_export.jpeg)
+
+
+6\. The "Item Sets Tree" tab allows you to next child item sets under a parent item set for denser collection organization.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/d91e6ad3-eb7b-42ae-8963-d2d2691d4f0a/user_cropped_screenshot_d39b8afe5ba5476f93ef23f53e4d113e_text_export.jpeg)
+
+
+Tip: There are three modes of information that can be added to your item record: **Text**, **Omeka Resource**, and **URI**. All three modes of information can be included in one record and multiple instances of each mode can also be included.
+
+
+7\. [Text fields](https://omeka.org/s/docs/user-manual/content/items/#text) allow for unformatted text entry. No markup is allowed in these fields (e.g. Markdown, HTML).
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/3cecc96f-8da7-4942-abe7-2b7439682658/user_cropped_screenshot_781a20de41e940a1afddcc54eac90f38_text_export.jpeg)
+
+
+8\. Click "URI"
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/8a4c10c5-b623-4df3-82e9-a762dedb000d/ascreenshot_7e525b40f80b4a89bb4f7cdead2cb3ac_text_export.jpeg)
+
+
+9\. An [Omeka Resource](https://omeka.org/s/docs/user-manual/content/media/#omeka-resource) that already exists in your project.
+
+The Omeka resource fields create an internal link between the resource you are creating and the resource that fills that field.
+
+You have the option to use either an item or an item set. Choosing a resource type will open a side drawer where you can browse all of those resources in the installation. You can use the search function at the top of the drawer to narrow down the list or to quickly find a specific item or item set.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/84c1bb7f-986b-43c7-a986-9fbf330ab9bd/user_cropped_screenshot_855185f675d549d9bf2aa1cd2696ea12_text_export.jpeg)
+
+
+10\. [URI fields](https://omeka.org/s/docs/user-manual/content/item-sets/#uri) link to an external website or online resource. Every URI value has the link itself, and an optional textual Label to replace the URI with something human-readable. For example, you may wish to enter in a Creator as a URI to a controlled vocabulary of artists or authors, and then include the creator's name in plain text as the Label. Omeka will not automatically pull information from the URI.
+
+![](https://colony-recorder.s3.us-west-1.amazonaws.com/files/2025-09-23/42a95d78-ca3b-4476-ba04-66faa2c5fd0b/user_cropped_screenshot_7d6bf62694b146139a4a3ff5e4b4f16c_text_export.jpeg)
+#### [Made with Scribe](https://scribehow.com/o/Q5Aaj_WQQLSLiZKvgOpJpw/viewer/Create_a_New_Item_Set__Omeka_S__1ItGb-sOQ8CaJYXJSUttew)
+
+
